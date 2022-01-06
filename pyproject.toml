@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "ansible-ee-azure"
+name = "ansible-ee-builder"
 version = "0.1.0"
-description = "Ansible AWX EE builder for MS Azure"
+description = "Ansible AWX EE builder"
 authors = ["Calvin Remsburg <cremsburg.dev@gmail.com>"]
 license = "Apache 2.0"
 
